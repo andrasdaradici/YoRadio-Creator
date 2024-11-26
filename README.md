@@ -53,3 +53,7 @@ General fixes:
 
 **Changelog:**
 - Released the tool to the public.
+
+# Other
+
+All the components are drawn in photoshop, the .png versions of them are fully free, however if you wish to acquire the .psd files to make modifications, then email me so we can agree on a price.
