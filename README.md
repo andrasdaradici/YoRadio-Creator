@@ -2,12 +2,16 @@
 
 ## A simple circuit designer created for YoRadio!
 
+### If you prefer itch.io then you can get the tool [here](https://andrasdaradici.itch.io/yoradio-creator).
+
 ### This repository does not and will not contain the source code for this tool.
 ### The main purpose of this repository is to archive all **FREE** releases of YoRadio! Creator.
 ### You will find an archive of all past updates alongside their changelog in the `ReadMe.md` file.
 ### Illustrations for all components will also be available here in the future.
 
 # PAST UPDATES
+
+### The past updates of this tool will be listed bellow in descending order, from newest to oldest.
 
 ![Devlog V1 1 0](https://github.com/user-attachments/assets/ccbc37d5-46e0-4675-baea-f8824cc2fdc7)
 
