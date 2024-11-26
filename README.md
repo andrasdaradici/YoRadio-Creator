@@ -2,6 +2,7 @@
 
 A simple circuit designer created for YoRadio!
 If you prefer itch.io then you can get the tool [here](https://andrasdaradici.itch.io/yoradio-creator).
+You also can visit [this page](yoradio-creator.github.io) to try it out in your web browser before downloading it.
 
 This repository does not and will not contain the source code for this tool.
 The main purpose of this repository is to archive all **FREE** releases of YoRadio! Creator.
