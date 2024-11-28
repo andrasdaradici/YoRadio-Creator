@@ -21,6 +21,18 @@ Illustrations for all components will also be available here in the future.
 
 [Version 1.0.0 - "The Release"](https://github.com/andrasdaradici/YoRadio-Creator/?tab=readme-ov-file#version-100---the-release)
 
+# Version 1.1.1 - "The Helpful Hints Update"
+![Devlog V1 1 1](https://github.com/user-attachments/assets/ef9b8195-39c9-4962-9504-ebb51d5857e3)
+
+**Changelog:**
+- Adds a "help" menu which gives a brief explanation for each icon in the app and provides you with the shortcuts
+- Fixed the UI scaling so the ESP32 doesn't get cut off
+- Added the ability to switch between the two ESP32 boards (Wrover and Wroom) without having to go to the main menu while also retaining the components
+- Added a small visual for the "Internal I2S" DAC option
+- Fixed some minor issues
+- Fixed the screenshot option, which now exports an image that is 4x the resolution of the screen so you can have true high quality images.
+- Added redirects to some of my other stuff in the main menu (YouTube, Theme Editor, etc.)
+
 # Version 1.1.0 - "I2C Display Expansion"
 ![Devlog V1 1 0](https://github.com/user-attachments/assets/ccbc37d5-46e0-4675-baea-f8824cc2fdc7)
 
