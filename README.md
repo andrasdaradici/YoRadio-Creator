@@ -13,6 +13,8 @@ Illustrations for all components will also be available here in the future.
 
 ### The past updates of this tool are listed below in descending order, from the newest to the oldest.
 
+[Version 1.1.1 - "The Helpful Hints Update"](https://github.com/andrasdaradici/YoRadio-Creator/?tab=readme-ov-file#version-111---the-helpful-hints-update)
+
 [Version 1.1.0 - "I2C Display Expansion"](https://github.com/andrasdaradici/YoRadio-Creator/?tab=readme-ov-file#version-110---i2c-display-expansion)
 
 [Version 1.0.2 - "Fullscreen & UI Patch"](https://github.com/andrasdaradici/YoRadio-Creator/?tab=readme-ov-file#version-102---fullscreen--ui-patch)
