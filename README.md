@@ -12,6 +12,7 @@ Illustrations for all components will also be available here in the future.
 # PAST UPDATES
 
 ### The past updates of this tool are listed below in descending order, from the newest to the oldest.
+[Version 1.2.0 - "The Guided Presets Update" - First paid version](https://github.com/andrasdaradici/YoRadio-Creator/blob/main/README.md#version-120---the-guided-presets-update)
 
 [Version 1.1.1 - "The Helpful Hints Update"](https://github.com/andrasdaradici/YoRadio-Creator/?tab=readme-ov-file#version-111---the-helpful-hints-update)
 
