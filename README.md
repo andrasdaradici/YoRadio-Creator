@@ -23,6 +23,17 @@ Illustrations for all components will also be available here in the future.
 
 [Version 1.0.0 - "The Release"](https://github.com/andrasdaradici/YoRadio-Creator/?tab=readme-ov-file#version-100---the-release)
 
+# Version 1.2.0 - "The Guided Presets Update"
+![Devlog V1 2 0](https://github.com/user-attachments/assets/a1b80d3f-412c-4b82-ab51-86f79c8a52e6)
+
+**Changelog:**
+- This is the first paid version
+- Added tooltips
+- Added the preset store where you can load in pre-created radio's (MORE PRESETS COMING SOON, GIVE ME TIME FOR THAT)
+  - Webpage: http://andrewstudios.go.ro/YoRadio/Creator/ 
+- Fixed some scaling issues
+- Fixed an issue where the board changer button would be present in screenshots
+
 # Version 1.1.1 - "The Helpful Hints Update"
 ![Devlog V1 1 1](https://github.com/user-attachments/assets/ef9b8195-39c9-4962-9504-ebb51d5857e3)
 
