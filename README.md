@@ -12,7 +12,14 @@ Illustrations for all components will also be available here in the future.
 # PAST UPDATES
 
 ### The past updates of this tool are listed below in descending order, from the newest to the oldest.
-[Version 1.2.0 - "The Guided Presets Update" - First paid version](https://github.com/andrasdaradici/YoRadio-Creator/blob/main/README.md#version-120---the-guided-presets-update)
+
+### Paid Versions
+
+[Version 1.3.0 - "The Radiant Playlists Update"](https://github.com/andrasdaradici/YoRadio-Creator/blob/main/README.md#version-130---the-radiant-playlists-update)
+
+[Version 1.2.0 - "The Guided Presets Update"](https://github.com/andrasdaradici/YoRadio-Creator/blob/main/README.md#version-120---the-guided-presets-update)
+
+### Free Versions
 
 [Version 1.1.1 - "The Helpful Hints Update"](https://github.com/andrasdaradici/YoRadio-Creator/?tab=readme-ov-file#version-111---the-helpful-hints-update)
 
@@ -25,6 +32,8 @@ Illustrations for all components will also be available here in the future.
 [Version 1.0.0 - "The Release"](https://github.com/andrasdaradici/YoRadio-Creator/?tab=readme-ov-file#version-100---the-release)
 
 # Version 1.3.0 - "The Radiant Playlists Update"
+![Devlog V1 3 0](https://github.com/user-attachments/assets/11e3154d-7833-4115-891d-47f3ac33c2a5)
+
 ### General updates
 - Removed preset store as it is a useless addition to the software
 ### Interface updates
