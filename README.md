@@ -7,7 +7,6 @@ If you prefer itch.io then you can get the tool [here](https://andrasdaradici.it
 This repository does not and will not contain the source code for this tool.
 The main purpose of this repository is to archive all **FREE** releases of YoRadio! Creator.
 You will find an archive of all past updates alongside their changelog in the `ReadMe.md` file.
-Illustrations for all components will also be available here in the future.
 
 # PAST UPDATES
 
