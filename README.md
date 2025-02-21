@@ -24,6 +24,26 @@ Illustrations for all components will also be available here in the future.
 
 [Version 1.0.0 - "The Release"](https://github.com/andrasdaradici/YoRadio-Creator/?tab=readme-ov-file#version-100---the-release)
 
+# Version 1.3.0 - "The Radiant Playlists Update"
+### General updates
+- Removed preset store as it is a useless addition to the software
+### Interface updates
+- Smoothened the user experience out a little bit
+- Added the ability to choose one from seven (7) colors for the background in the application so it is customized to the users needs
+### Components added
+- A second rotary encoder
+- Nokia 5110 Display
+- GC9A01A Display
+- ILI9341 Display
+- ILI9488 Display
+### NEW EDITOR - PLAYLIST EDITOR
+- You can now create your dream playlist directly from the application!
+- Add the name, url and offset volume with ease for each of the radio stations
+- Export it as a .csv file or, you can even...
+- Upload it directly from the app by only providing the local IP address of your YoRadio!
+### MICROSOFT STORE HELL YEAH
+- [YoRadio! Creator](https://apps.microsoft.com/detail/9nsmpz90k78m?hl=en-US&gl=RO) is now available on the Microsoft Store as well.
+
 # Version 1.2.0 - "The Guided Presets Update"
 ![Devlog V1 2 0](https://github.com/user-attachments/assets/a1b80d3f-412c-4b82-ab51-86f79c8a52e6)
 
